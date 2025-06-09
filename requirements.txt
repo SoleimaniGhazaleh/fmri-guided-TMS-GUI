@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+tqdm
+nibabel
+nilearn
+simnibs
