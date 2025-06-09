@@ -111,6 +111,6 @@ If you use this pipeline in your research, please cite the following paper:
 **Ghazaleh Soleimani**  
 Postdoctoral Researcher – Neuroimaging & Neuromodulation  
 University of Minnesota / INTAM Network  
-📧 [ghazaleh.soleimani@email.com](mailto:ghazaleh.soleimani@email.com)
+📧 [Webpage](https://soleimanighazaleh.github.io/)
 
 
